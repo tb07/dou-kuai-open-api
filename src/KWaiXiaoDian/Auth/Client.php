@@ -3,7 +3,7 @@
 
 namespace Tb07\DouKuaiOpenApi\KWaiXiaoDian\Auth;
 
-use Tb07\DouKuaiOpenApi\JinRiTeMai\Kernel\BaseClient;
+use Tb07\DouKuaiOpenApi\KWaiXiaoDian\Kernel\BaseClient;
 
 /**
  * 应用授权

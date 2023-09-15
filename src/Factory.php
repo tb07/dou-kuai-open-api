@@ -7,6 +7,7 @@ namespace Tb07\DouKuaiOpenApi;
  * Class Factory.
  *
  * @method static \Tb07\DouKuaiOpenApi\JinRiTeMai\Application            jinRiTeMai(array $config)
+ * @method static \Tb07\DouKuaiOpenApi\KWaiXiaoDian\Application          kwaixiaodian(array $config)
  */
 class Factory
 {

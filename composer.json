@@ -41,7 +41,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Waixiaodian\\Tests\\": "tests/"
+      "DouKuaiOpenApi\\Tests\\": "tests/"
     }
   }
 }

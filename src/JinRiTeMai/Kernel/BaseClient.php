@@ -49,7 +49,7 @@ class BaseClient extends douBaseClient
      */
     public function cusRequest($method, $url, $options = [], $returnRaw = false)
     {
-        return $this->unwrapResponse(parent::request($method, $url, $options), $returnRaw);
+        return parent::request($method, $url, $options, $returnRaw);
     }
 
     /**
